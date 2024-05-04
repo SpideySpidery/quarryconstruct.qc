@@ -1,7 +1,6 @@
 # Quarry Construct Official Documentation
 <img src="https://i.imgur.com/zd5o8J0.png" alt="Logo">
 
-##### Note: This file would be deleted as soon as the main website is completed (https://spideyspidery.github.io/quarryconstruct.qc/).
 #### Another V.V.V IMP Note: This project would never be made OPEN - SOURCE
 
 ------------------------------------------------------------------
