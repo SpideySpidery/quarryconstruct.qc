@@ -1,7 +1,7 @@
 # Quarry Construct Official Documentation
 <img src="https://i.imgur.com/zd5o8J0.png" alt="Logo">
 
-#### Another V.V.V IMP Note: This project would never be made OPEN - SOURCE
+#### Note: This project would never be made OPEN - SOURCE
 
 ------------------------------------------------------------------
 
